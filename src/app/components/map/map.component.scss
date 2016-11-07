@@ -1,0 +1,15 @@
+#map {
+  position:absolute;
+  top:0px;
+  bottom:0;
+  width:100%;
+}
+
+#searchlocation {
+  height: 50px;
+  width: 200px;
+  background: red;
+  z-index: 100;
+  position: absolute;
+  top: 50px;
+}
